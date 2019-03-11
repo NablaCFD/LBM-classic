@@ -1,6 +1,9 @@
 Classical Lattice Boltzmann Method (LBM)
 ========================================
 
+>Add by Qiang
++ **See the [video](https://www.youtube.com/watch?v=ZA1inlr3els), which is based on this code.**
+
 C implementation of the classical lattice Boltzmann method (LBM) using the D2Q9 and D3Q19 models, based on Nils Thuerey's PhD thesis (see Ref. 1).
 
 Compiling and running the C code:
